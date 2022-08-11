@@ -21,8 +21,8 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="[Channel]", url="https://t.me/KupTau"),
-                InlineKeyboardButton(text="[Group]", url="https://t.me/SharingUserbot")
+                InlineKeyboardButton(text="[Channel]", url="https://t.me/JenxRobotChannel"),
+                InlineKeyboardButton(text="[Group]", url="https://t.me/TwentyFourHourPublic")
             ],  
 
             [ InlineKeyboardButton("[Dev]", url=f"https://t.me/TeleUdahRusak"),]
@@ -36,9 +36,9 @@ pstart_markup=InlineKeyboardMarkup(
                 ], 
                 [
                     InlineKeyboardButton(
-                        "[Channel]", url=f"https://t.me/KupTau"), 
+                        "[Channel]", url=f"https://t.me/JenxRobotChannel"), 
                     InlineKeyboardButton(
-                        "[Support]", url=f"https://t.me/SharingUserbot")
+                        "[Support]", url=f"https://t.me/TwentyFourHourPublic")
                 ],
           
                 
