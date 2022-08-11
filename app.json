@@ -61,7 +61,7 @@
         },
          "MUST_JOIN": {
             "description": "Isi dengan username channel tanpa @",
-            "required": true,
+            "required": false,
             "value": "KupTau"
         },
         "BOT_TOKEN": {
